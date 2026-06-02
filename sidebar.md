@@ -68,6 +68,15 @@
   * [D1. Morioh](Islands/Morioh.md)
   * [E1. Black Market](Islands/BlackMarket.md)
 
+* **Abilities Guide**
+  * [Abilities Guide Overview](Abilities/Overview.md)<br>
+  * [Character Level](Abilities/Level.md)<br>
+  * [General Stats](Abilities/Stats.md)<br>
+  * [Races](Abilities/Race.md)<br>
+  * [Fighting Styles](Abilities/Style.md)<br>
+  * [Haki](Abilities/Haki.md)<br>
+  * [Devil Fruits](Abilities/DevilFruit.md)<br>
+
 * **Gear Guide**
   * [Gear Guide Overview](Gear/Overview.md)
   * [Blacksmiths](Gear/Blacksmith.md)
