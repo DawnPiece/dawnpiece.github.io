@@ -16,7 +16,7 @@ Every ability level up will increase damage, protection, range or other positive
 
 ### Style Progression Lines
 
-There will be 8 style progression lines that will be geared towards certain weapons of your choice, and as a result will buff their respective weapon damage output. Each style line will have its own progression system, so switching between styles will have seprate leveling systems and skill trees. The following style lines are below.
+There will be 8 style progression lines that will be geared towards certain weapons of your choice, and as a result will buff their respective weapon damage output. Each style line will have its own progression system, so switching between styles will have separate leveling systems and skill trees. The following style lines are below.
 
 1. [Swordsman](https://haneki56.github.io/DawnPiece/#/Abilities/Style/Swordsman): Focused on Slash Weapon Related Styles
 2. Bruiser: Focused on Bludgeon Weapon Related Styles (Planned)

@@ -10,7 +10,7 @@ Every level up will increase damage, protection, range or other positive stats d
 
 ### Haki Abilities
 
-Observation and Armament Haki will start with zero moves and every two levels, you unlock a class move for a maximum of 5 moves. Upon unlocking Conqueror's Haki, you will recieve one move and unlock a move every two levels for a total of 6 moves.
+Observation and Armament Haki will start with zero abilties and every two levels, you unlock an ability for a maximum of 5 abilities. Upon unlocking Conqueror's Haki, you will recieve one ability automatically and unlock an ability every two levels for a total of 6 abilities.
 
 ### Observation Haki
 

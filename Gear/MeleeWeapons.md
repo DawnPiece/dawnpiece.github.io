@@ -4,16 +4,16 @@ The DawnPiece mod has custom weapons that drop from NPCs. As you progress throug
 
 ### Weapon Stats
 
-All melee weapons will have base Damage stats for dealing raw damage and an Attack Speed multiplier that dictates how fast they can swing their weapon in a second. There are 6 Tiers for Gear: Common, Uncommon, Rare, Epic, Legendary and Mythical. You can increase the tier of the weapon by upgrading it at an upgrade table. There are 5 classes of weapons referred to as Basic, Grade, Skillful, Great and Supreme. Supreme blades are the highest damage class while Basic is the lowest damage class. Attack Speed remains unchanged amongst classes, but it will increase when upgrading the tier.
+All melee weapons will have base Damage stats for dealing raw damage. Damage values can increase by leveling up your classes or using specific abilities and armor set bonuses. There are 6 Tiers for Gear: Common, Uncommon, Rare, Epic, Legendary and Mythical. You can increase the tier of the weapon by upgrading it at an upgrade table. There are 5 classes of weapons referred to as Basic, Grade, Skillful, Great and Supreme. Supreme blades are the highest damage class while Basic is the lowest damage class. 
 
-| Tier      | Basic Damage  | Grade Damage  | Skillful Damage   | Great Damage  | Supreme Damage| Attack Speed  |
-|-----------|---------------|---------------|-------------------|---------------|---------------|---------------|
-| Common    | 6             | 6             | 7                 | 8             | 8             | 1.5           |
-| Uncommon  | 12            | 13            | 14                | 15            | 16            | 1.75          |
-| Rare      | 24            | 26            | 28                | 30            | 32            | 2             |
-| Epic      | 44            | 47            | 50                | 53            | 56            | 2.25          |
-| Legendary | 80            | 84            | 88                | 92            | 94            | 2.5           |
-| Mythical  | 120           | 126           | 132               | 138           | 144           | 2.75          |
+| Tier      | Basic Damage  | Grade Damage  | Skillful Damage   | Great Damage  | Supreme Damage|
+|-----------|---------------|---------------|-------------------|---------------|---------------|
+| Common    | 2             | 2             | 3                 | 4             | 4             |
+| Uncommon  | 4             | 5             | 6                 | 7             | 8             |
+| Rare      | 8             | 10            | 12                | 14            | 16            |
+| Epic      | 14            | 16            | 18                | 20            | 22            |
+| Legendary | 22            | 24            | 26                | 28            | 30            |
+| Mythical  | 32            | 34            | 36                | 38            | 40            |
 
 ### Weapon Types
 
