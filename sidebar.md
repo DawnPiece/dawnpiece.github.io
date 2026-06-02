@@ -69,13 +69,13 @@
   * [E1. Black Market](Islands/BlackMarket.md)
 
 * **Abilities Guide**
-  * [Abilities Guide Overview](Abilities/Overview.md)<br>
-  * [Character Level](Abilities/Level.md)<br>
-  * [General Stats](Abilities/Stats.md)<br>
-  * [Races](Abilities/Race.md)<br>
-  * [Fighting Styles](Abilities/Style.md)<br>
-  * [Haki](Abilities/Haki.md)<br>
-  * [Devil Fruits](Abilities/DevilFruit.md)<br>
+  * [Abilities Guide Overview](Abilities/Overview.md)
+  * [Character Level](Abilities/Level.md)
+  * [General Stats](Abilities/Stats.md)
+  * [Races](Abilities/Race.md)
+  * [Fighting Styles](Abilities/Style.md)
+  * [Haki](Abilities/Haki.md)
+  * [Devil Fruits](Abilities/DevilFruit.md)
 
 * **Gear Guide**
   * [Gear Guide Overview](Gear/Overview.md)
