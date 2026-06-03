@@ -14,7 +14,7 @@ Observation and Armament Haki will start with zero abilties and every two levels
 
 ### Observation Haki
 
-Click [here]() to view the abilities related to Observation Haki.
+Click [here](https://haneki56.github.io/DawnPiece/#/Abilities/Haki/Observation) to view the abilities related to Observation Haki.
 
 Observation Haki levels up based on the following experience system.
 
@@ -34,7 +34,7 @@ Observation Haki levels up based on the following experience system.
 
 ### Armament Haki
 
-Click [here]() to view the abilities related to Armament Haki.
+Click [here](https://haneki56.github.io/DawnPiece/#/Abilities/Haki/Armament) to view the abilities related to Armament Haki.
 
 Armament Haki levels up based on the following experience system.
 
@@ -54,7 +54,7 @@ Armament Haki levels up based on the following experience system.
 
 ### Conqueror's Haki
 
-Click [here]() to view the abilities related to Conqueror's Haki.
+Click [here](https://haneki56.github.io/DawnPiece/#/Abilities/Haki/Conqueror) to view the abilities related to Conqueror's Haki.
 
 Conqueror's Haki levels up based on the following experience system.
 
