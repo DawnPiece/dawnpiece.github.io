@@ -35,7 +35,7 @@ The following links take you to each specific Common Devil Fruit in the game.
 6. Horo Horo no Mi - Perona
 7. Toki Toki no Mi - Toki
 8. Noro Noro no Mi - Foxy
-9. Sube Sube no Mi - Alvida
+9. [Sube Sube no Mi](https://haneki56.github.io/DawnPiece/#/Abilities/DevilFruit/SubeSubeNoMi)
 10. Suke Suke no Mi - Absalom & Shiryu
 11. Nagi Nagi no Mi - Rosinante
 12. Mane Mane no Mi - Mr. 2
@@ -88,7 +88,7 @@ The following links take you to each specific Uncommon Devil Fruit in the game.
 11. Ushi Ushi no Mi - Minotaurus
 12. Sabi Sabi no Mi - Captain Shu
 13. Kuma Kuma no Mi, Model: Koala - Minokoala
-14. Bomu Bomu no Mi - Mr. 5 & Ganzui
+14. [Bomu Bomu no Mi](https://haneki56.github.io/DawnPiece/#/Abilities/DevilFruit/BomuBomuNoMi)
 15. Inu Inu no Mi, Model: Chihuahua - Minochihuahua
 16. Mato Mato no Mi - Vander Decken
 17. Guru Guru no Mi - Buffalo
@@ -102,7 +102,7 @@ The following links take you to each specific Uncommon Devil Fruit in the game.
 25. Mushi Mushi no Mi, Model: Suzumebachi - Bian
 26. Mushi Mushi no Mi, Model: Kabutomushi - Kabu
 27. Muchi Muchi no Mi - Kujaku
-28. Toge Toge no Mi - Miss Doublefinger
+28. [Toge Toge no Mi](https://haneki56.github.io/DawnPiece/#/Abilities/DevilFruit/TogeTogeNoMi)
 
 Every Uncommon Devil Fruit levels up based on the following experience system.
 
@@ -149,7 +149,7 @@ The following links take you to each specific Rare Devil Fruit in the game.
 24. Mira Mira no Mi - Brulee
 25. Ori Ori no Mi - Hina
 26. Sai Sai no Mi - Minorhinoceros
-27. Doru Doru no Mi - Mr. 3
+27. [Doru Doru no Mi](https://haneki56.github.io/DawnPiece/#/Abilities/DevilFruit/DoruDoruNoMi)
 28. Ton Ton no Mi - Machvise 
 
 Every Rare Devil Fruit levels up based on the following experience system.
@@ -185,7 +185,7 @@ The following links take you to each specific Epic Devil Fruit in the game.
 12. Netsu Netsu no Mi - Oven
 13. Shima Shima no Mi - Pizarro
 14. Wara Wara no Mi - Hawkins
-15. Riki Riki no Mi - Jesus Burgess
+15. [Riki Riki no Mi](https://haneki56.github.io/DawnPiece/#/Abilities/DevilFruit/RikiRikiNoMi)
 16. Aro Aro no Mi - Gunko
 17. Iba Iba no Mi - Sommers
 18. Fude Fude no Mi - Kanjuro
