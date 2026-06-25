@@ -1,0 +1,74 @@
+/* ================================================
+   Home Page Hero Section
+   ================================================ */
+
+/* Hero wrapper — half viewport height with dark background */
+.VPHomeHero {
+  width: 100%;
+  min-height: 50vh;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 0 !important;
+}
+
+/* Hero inner container — sits above overlay */
+.VPHomeHero .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 clamp(16px, 5vw, 80px);
+}
+
+/* Center title + tagline together as a group in the middle of the viewport */
+.VPHomeHero .main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+  text-align: center;
+  padding: 0;
+}
+
+/* The name (DawnPiece Wiki) — large, white, bold */
+.VPHomeHero .name {
+  font-size: clamp(2.75rem, 5.5vw, 4.278rem) !important;
+  font-weight: 700 !important;
+  white-space: nowrap;
+  color: #ffffff !important;
+}
+
+/* The tagline (subtitle) — sits right below the title */
+.VPHomeHero .text,
+.VPHomeHero .tagline {
+  color: #fff !important;
+  font-size: clamp(0.75rem, 2vw, 1.556rem);
+  letter-spacing: 0.15rem;
+  margin-top: 1.5rem;
+  max-width: 100%;
+}
+
+/* Hide the old default action buttons from VitePress (Get Started / Island Guide) */
+/* They don't fit the clean hero style — the features cards below serve as navigation */
+.VPHomeHero .actions {
+  display: none;
+}
+
+/* ================================================
+   Features Section
+   ================================================ */
+.VPHomeFeatures {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.VPHomeFeatures .container {
+  max-width: 100%;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 clamp(16px, 5vw, 80px);
+}

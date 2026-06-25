@@ -1,0 +1,90 @@
+# Black Market Guide
+
+Once the Main Questline is complete, you can start the process the unlock the Black Market! The Black Market is a location where you have many shops to buy and sell specific items that are unique to the black market, as well as other perks such as improved Blacksmiths, and more. All of the information related to the Black Market can be found on this page.
+
+## Black Market Unlock Quest
+
+To start the Black Market Quest, speak to Doflamingo (BM) on Dressrosa in front of the Palace.
+
+| Quest Code| Quest Name                | Quest Objective|
+|-----------|-----------                |-----------|
+| BM01      | Show Your Strength!       |Bring Doflamingo (BM) a Shandian Insignia, Bounty Hunter Insignia and Baroque Works Insignia.|
+| BM02      | Insignia Collector!       |Bring Doflamingo (BM) a Bandit Insignia, Revolutionary Insignia and Scientist Insignia.|
+| BM03      | The Very Very Strongest!  |Bring Doflamingo (BM) a World Government Insignia, Marine Insignia and Samurai Insignia.|
+| BM04      | The Pinnacle Of Strength! |Bring Doflamingo (BM) a Pirate Insignia.|
+| BM05      | Fragment Collector!       |Bring Doflamingo (BM) 30 Common Devil Fruit Fragments, 25 Uncommon Devil Fruit Fragments and 20 Rare Devil Fruit Fragments.|
+| BM06      | Devil Fruit Connoisseur!  |Bring Doflamingo (BM) 15 Epic Devil Fruit Fragments, 10 Legendary Devil Fruit Fragments and 5 Mythical Devil Fruit Fragments.|
+| BM07      | Boss Master!              |Bring Doflamingo (BM) 64 Boss Souls to complete the questline.|
+
+Bounty Reward: 1,000,000,000
+
+Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once. Insignias are obtained by completing [Trials Questlines](/Ranks/Overview) for each Life Path, Boss Souls are obtained by defeating Trials Bosses, and Devil Fruit Fragments are bought in the [Flower Capital on Wano Kuni](/Islands/WanoKuni#merchants) from merchants.
+
+## Merchants
+
+| Merchant Name                 | Merchandise           |
+|-------------                  |-----------            |
+| Guard Runes                   | Runes                 |
+| Damage Runes                  | Runes                 |
+| Immunity Runes                | Runes                 |
+| Ability Runes                 | Runes                 |
+| Common Devil Fruit Buyer      | Devil Fruits          |
+| Common Devil Fruit Buyer 2    | Devil Fruits          |
+| Uncommon Devil Fruit Buyer    | Devil Fruits          |
+| Rare Devil Fruit Buyer        | Devil Fruits          |
+| Rare Devil Fruit Buyer 2      | Devil Fruits          |
+| Epic Devil Fruit Buyer        | Devil Fruits          |
+| Epic Devil Fruit Buyer 2      | Devil Fruits          |
+| Legendary Devil Fruit Buyer   | Devil Fruits          |
+| Mythical Devil Fruit Buyer    | Devil Fruits          |
+| Common Devil Fruit Seller     | Devil Fruits          |
+| Common Devil Fruit Seller 2   | Devil Fruits          |
+| Uncommon Devil Fruit Seller   | Devil Fruits          |
+| Rare Devil Fruit Seller       | Devil Fruits          |
+| Rare Devil Fruit Seller 2     | Devil Fruits          |
+| Epic Devil Fruit Seller       | Devil Fruits          |
+| Epic Devil Fruit Seller 2     | Devil Fruits          |
+| Legendary Devil Fruit Seller  | Devil Fruits          |
+| Mythical Devil Fruit Seller   | Devil Fruits          |
+| Common Fragments              | Devil Fruit Fragments |
+| Uncommon Fragments            | Devil Fruit Fragments |
+| Rare Fragments                | Devil Fruit Fragments |
+| Rare Fragments 2              | Devil Fruit Fragments |
+| Epic Fragments                | Devil Fruit Fragments |
+| Epic Fragments 2              | Devil Fruit Fragments |
+| Legendary Fragments           | Devil Fruit Fragments |
+| Mythical Fragments            | Devil Fruit Fragments |
+
+## Essential NPCs
+
+| NPC Name              | Purpose                            |
+|-------------          |-----------                         |
+| Teleporter            | Teleport to any unlocked location  |
+| Bank Teller           | Currency Exchange                  |
+| Bank Teller (Bulk)    | Currency Exchange                  |
+| Blacksmith            | Custom Gear Information            |
+| Doctor                | Healer                             |
+
+## Blacksmith
+
+The Black Market has upgraded versions of every [Blacksmith](/Gear/Blacksmith) related block in the game. Please see below on what is different.<br>
+
+1. Mythical Forge (Upgrade Table)
+
+The Mythical Forge works the exact same way as the Upgrade Table, with the only difference being that Legendary Gear can now be upgraded to the Mythical Tier.<br>
+
+2. Restoration Forge (Repair Station)
+
+The Restoration Forge works the exact same way as the Repair Station, however you now need to pay 1 Belly for every 20 units of durability unstead of 10. This makes it so that repair costs are cut in half.<br>
+
+3. Destiny Forge (Fate Forge)
+
+The Destiny Forge works the exact same way as the Fate Forge, however orbs of every tier can be placed to roll for a change of obtaining random gear. The amount of orbs required increase with each tier, starting with one orb for common and uncommon, and ending with five orbs at mythical.<br>
+
+4. Reclamation Forge (Salvage Stand)
+
+The Reclamation Forge works the exact same way as the Salvage Stand, however the payout for salvaging common weapons is now 150 Belly, while the rest of the tiers are 30% of their upgrade cost instead of 20%. For every One Durability that is subtracted from the total, One Belly will be subtracted from the total payout. For every 50 Damage Dealt or Damage Recieved, One Belly will be added to the total payout you recieve for salvaging the gear piece rather than the original value of 100.<br>
+
+5. Rune Forge
+
+This is a Black Market Exclusive Block that is used to add runes to your Mythical Armor Pieces. Please see the [Runes section on the Blacksmith page](/Gear/Blacksmith#runes) which explain the Rune Bonuses and the processes of applying runes.
