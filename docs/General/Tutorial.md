@@ -7,7 +7,7 @@ Scroll through this page to see a basic guide based on our most frequently asked
 
 The purpose of the game is to go through the storyline in One Piece, similar to the way the Straw Hats go through their journey! Upon joining the server, you'll wind up at [Spawn Island](/Islands/SpawnIsland). Talk to the NPCs there to learn about the server. There will also be a Teleporter NPC there to take you wherever you need to go as long as you have unlocked the island.
 
-First, you should teleport to [Foosha Village](/Islands/FooshaVillage) and start your journey! As soon as you arrive there, talk to Luffy to start the main quest. Each island going forward will have a main questline, so to unlock the next island, complete the main questline of the island you are currently on. The option for the next island will be available in the Teleporter interface.
+First, you should teleport to [Dawn Island](/Islands/DawnIsland) and start your journey! As soon as you arrive there, talk to Luffy to start the main quest. Each island going forward will have a main questline, so to unlock the next island, complete the main questline of the island you are currently on. The option for the next island will be available in the Teleporter interface.
 
 We recommend you use your starter gear that you received when spawning into the server to help fight bosses. Be sure to also take a look around [Goa Kingdom](/Islands/GoaKingdom) since you will often go there to use the shops and essential NPCs like bankers for storage, currency exchange, food merchants, etc.
 

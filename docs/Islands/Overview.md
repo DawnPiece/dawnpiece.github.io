@@ -12,7 +12,7 @@ The island guide is a collection of pages describing the contents of each island
 ## Island Order
 
 [0. Spawn Island](SpawnIsland.md)<br>
-[1. Foosha Village](FooshaVillage.md)<br>
+[1. Dawn Island](DawnIsland.md)<br>
 [1.1 Goa Kingdom](GoaKingdom.md)<br>
 [1.2 Sixis](Sixis.md)<br>
 [2. Alvida's Hideout](AlvidaHideout.md)<br>
@@ -25,7 +25,7 @@ The island guide is a collection of pages describing the contents of each island
 [6.1 Don Krieg's Hideout](DonKriegHideout.md)<br>
 [6.2 Lost Island](LostIsland.md)<br>
 [7. Baratie](Baratie.md)<br>
-[8. Cocoyashi Village](CocoyashiVillage.md)<br>
+[8. Conomi Islands](ConomiIslands.md)<br>
 [8.1 Oykot Kingdom](OykotKingdom.md)<br>
 [9. Loguetown](Loguetown.md)<br>
 [10. Reverse Mountain](ReverseMountain.md)<br>
