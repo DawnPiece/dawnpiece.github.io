@@ -2,24 +2,6 @@
 
 Scroll through this page to see a basic guide based on our most frequently asked questions. If have a question that you feel is important but the information is not listed here, [open a ticket](https://discord.com/channels/1385526041807949855/1394129612161810433) on the discord server so that staff can add it to the list.
 
-## Joining The Server
-
-### Joining Through Technic
-
-1. [Download 64-Bit Java for Minecraft](https://java-for-minecraft.com/en/). 
-2. [Download the Technic Launcher](https://www.technicpack.net/download). 
-3. Open the Technic Launcher, search for the mod pack "One Piece Adventures at Sea" and install it. The creator of the modpack is SmoovOperator.
-4. Click on Launcher Options and allocate around 50% of your computer's total RAM to the Technic Launcher. This should be around 8-16 GB depending on your computer's RAM. You will likely need at least a 16 GB computer to run this modpack as an 8GB computer may crash upon loading.
-5. Minecraft stopped official support for Minecraft using Legacy JRE so if you are still having issues loading, uncheck the box "Use Mojang Java runtimes" and make sure you have another JRE isntalled which you can find [here](https://adoptium.net/temurin/releases?version=8&os=any&arch=any)
-6. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
-
-### Joining Through Minecraft Launcher
-
-1. [Download 64-Bit Java for Minecraft](https://java-for-minecraft.com/en/). 
-2. Download Minecraft Version 1.16.5 and Forge Version 36.2.39 in your Minecraft Launcher.
-3. [Download](https://drive.google.com/drive/folders/13c6E5QVomSwfwYiTvm5Z6PiCnOu7joVr) all of the mods and add them to your mods folder.
-4. Make sure that you have enough RAM allocated to the launcher.
-5. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
 
 ## Getting Started
 
