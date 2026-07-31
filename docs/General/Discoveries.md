@@ -2,7 +2,7 @@
 
 Discoveries are optional gameplay enhancements found outside of standard quests and bosses. Each island has a set of discoveries so check your Progress tab on the main menu to track them. They are typically found in towns or along roads. A good rule of thumb: open your Journey Map, switch to night mode, and explore any lit-up areas.
 
-Discoveries include speaking to citizens, opening containers and safes, unlocking doors, finding treasure chests, and reading records. Some are straightforward: open a container, get an item. Others are interconnected: an NPC gives you a key, a key unlocks a door, a scroll inside reveals a safe code, and the safe holds loot. Keep in mind that some discoveries may require items from later islands.
+Discoveries include speaking to citizens, opening containers and safes, unlocking doors, finding treasure chests, and reading records. Some are straightforward: open a container, get an item. Others are interconnected: an NPC gives you a key, a key unlocks a door, a scroll inside reveals a safe code, and the safe holds loot. Keep in mind that some discoveries may require items from later islands or give items to access locations on later islands.
 
 ## Citizens
 

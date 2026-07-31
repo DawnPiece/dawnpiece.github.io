@@ -12,7 +12,7 @@ To start the Main Quest, speak to Luffy (DAWN) near the island teleport location
 | A02       | The Adventure Begins!    |Talk to Shanks (FV) at Partys Bar to complete the questline.|
 
 > Item Rewards: 35 Belly, Common Shard, 8 Senbei<br>
-> Bounty Reward: 35,000
+> Bounty Reward: 35,000<br>
 > Note: Completing this quest unlocks Alvida's Hideout. Speak to Shanks (DAWN) or the Teleporter at any location to access the next island.
 
 ## Main Quest Boss Drops
@@ -78,15 +78,15 @@ To start the D Quest, speak to Young Luffy (DAWN) behind the Dadan Family Hideou
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| D01       | Be Friends With Ace!          |Talk to Ace (GK) on the edge of the Gray Terminal to complete the quest.|
-| D02       | Robbing The Bluejam Pirates!  |Talk to Sabo (GK) on the edge of the Gray Terminal to complete the quest.|
-| D03       | The Bluejam Crew!             |Defeat 3 Bluejam Pirates and Porchemy in the Gray Terminal.|
-| D04       | Dine & Dash!                  |Talk to Waiter (GK) in the restaurant to complete the quest.|
-| D05       | Sabo’s Family!                |Talk to Outlook III (GK) in Sabo's House to complete the quest.|
-| D06       | The Gray Terminal Inferno!    |Talk to Sterry (GK) in Sabo's House to complete the quest.|
-| D07       | Save Ace & Luffy!             |Find Captive Ace (GK) and Captive Luffy (GK) in the Gray Terminal.|
-| D08       | Stop Bluejam!                 |Defeat 3 Bluejam Pirates and Bluejam in the Gray Terminal.|
-| D09       | For Our Dreams!               |Talk to Young Luffy (GK) by the city gate to complete the questline.|
+| D01       | Be Friends With Ace!          |Talk to Ace (DAWN) at the end of the road by the Gray Terminal to complete the quest.|
+| D02       | Robbing The Bluejam Pirates!  |Talk to Sabo (DAWN) by the tree at the edge of the Gray Terminal to complete the quest.|
+| D03       | The Bluejam Crew!             |Defeat 3 Bluejam Pirates and Porchemy in the Gray Terminal to complete the quest.|
+| D04       | Dine & Dash!                  |Talk to Waiter (DAWN) in the Goa Kingdom Restaurant to complete the quest.|
+| D05       | Sabo’s Family!                |Talk to Outlook III (DAWN) in the Goa Kingdom Restaurant to complete the quest.|
+| D06       | The Gray Terminal Inferno!    |Talk to Sterry (DAWN) in Sabo's House to complete the quest.|
+| D07       | Save Ace & Luffy!             |Find Captive Ace (DAWN) and Captive Luffy (DAWN) in the Gray Terminal to complete the quest.|
+| D08       | Stop Bluejam!                 |Defeat 3 Bluejam Pirates and Bluejam in the Gray Terminal to complete the quest.|
+| D09       | For Our Dreams!               |Talk to Young Sabo (DAWN) by the city gate to complete the questline.|
 
 > Item Rewards: 100 Belly, Common Shard, 8 Senbei<br>
 > Bounty Reward: 100,000
@@ -116,7 +116,7 @@ Each island has various POI's that are considered important locations for essent
 
 ## Discoveries
 
-There are various types and amounts of [Discoveries](/General/Discoveries) on each island. Please see the chart below for the discoveries on this island.
+There are various types and amounts of [Discoveries](/General/Discoveries) on this island. Please see the chart below for the discoveries on this island.
 
 | Discovery Type | Amount |
 |----------------|--------|

@@ -4,7 +4,7 @@ Restaurants are found throughout the world. At these locations, you can buy the 
 
 ## Food
 
-All food prices are based on their tiers, with the price of each tier doubling. Each common food item goes for 1 Belly, uncomoon costs 2 Belly, Rare costs 4 Belly, Epic costs 8 Belly, Legendary Costs 16 Belly and Mythical costs 32 Belly each. You can buy them in quantities of your liking. Please see the [Food Page](/General/Food) for information regarding what each food tier does.
+All food prices are based on their tiers, with the price of each tier doubling. Each Common food item goes for 1 Belly, Uncommon costs 2 Belly, Rare costs 4 Belly, Epic costs 8 Belly, Legendary Costs 16 Belly and Mythical costs 32 Belly each. You can buy them in quantities of your liking. Please see the [Food Page](/General/Food) for information regarding what each food tier does.
 
 ## Drinks
 

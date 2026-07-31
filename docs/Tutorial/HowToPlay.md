@@ -16,11 +16,11 @@ You will notice that islands also have side quests. The quest giver NPCs are sca
 
 ## Completing Islands
 
-Instead of speed running the main quests to push through the islands, it's highly recommended to take your time to complete side quests, unlock discoveries on each island and gather resources for each island. Side quests will give you more teleporting options, discoveries will give you a lot of valuable items that can seriously help with progression, and mining for resouces can earn you extra cash and rewards. You will not be able to 100% each island as some locations and NPC might require prerequisites from later islands, but do what you can.
+Instead of speed running the main quests to push through the islands, it's highly recommended to take your time to complete side quests, unlock discoveries and gather resources on each island. Side quests will give you more teleporting options, discoveries will give you a lot of valuable items that can seriously help with progression, and mining for resouces can earn you extra cash and rewards. You will not be able to 100% each island as some locations and NPC might require prerequisites from later islands, but do what you can.
 
 ## Getting Gear
 
-You can claim a free starter gear set based on your fighting style at spawn. While you can get more than one, it's highly recommended to only choose one for now and claim another starter set when you switch styles later on. This gear can also be repaired for consistent use, but cannot be upgraded. It's up to you to farm or upgrade other gear sets in order to increase their tier.
+You automatically spawn with a full set of general armor, and you can speak to an NPC to get a starter weapon based on your class. While you can get more than one weapon, it's highly recommended to only choose one for now and claim another starter weapon when you switch styles later on as inventory space is limited. This gear can also be repaired for consistent use and can be upgraded, but it's recommended to farm for gear as general gear does not have any set bonus.
 
 Armor and weapons drop from NPCs. As you progress through the story, you will be able to unlock the ability to fight a wider variety of characters that drop their own gear. For more information on how the gear system works check out the [Gear Guide](/Gear/Overview). The [Island Guide](/Islands/Overview) also displays the weapon and armor drops that each boss has a chance to drop.
 
@@ -52,7 +52,7 @@ There are many ways to get belly. Please see the information below for the best 
 3. Market: Selling items to other players for belly
 4. Salvaging: Quick way to get belly for unused gear.
 5. Discoveries: Speaking to citizens, unlocking safes, opening chests and other discovery functions.
-6. Resources: You can sell gathered resources to the respective merchant for belly.
+6. Resources: You can sell gathered resources to the resource merchant for belly.
 
 ## Storage
 

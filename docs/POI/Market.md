@@ -1,8 +1,8 @@
 # Market
 
-Markets are server-wide player marketplaces found at various islands. Every Market Broker NPC shares the same global market, meaning listings and orders are accessible from any island with a Broker NPC. To see which islands have a Market, check the POI section for each island in the [Island Guide](/Islands/Overview).
+Markets are server-wide player marketplaces found at various islands. Every Market Broker NPC shares the same global market, meaning listings and orders are accessible from any island with a Market Broker NPC. To see which islands have a Market, check the POI section for each island in the [Island Guide](/Islands/Overview).
 
-All transactions use your Bank Account, physical Belly is never accepted. Market deposits bypass the usual 5% banking transaction fee.
+All transactions use your Bank Account, physical Belly is never accepted. Market deposits bypass the usual 5% banking transaction fee regardless if the item is bought or sold.
 
 ## Listings (Browse & Buy)
 
@@ -18,7 +18,7 @@ Place an item into the slot to list it for auction.
 
 Set a Starting Bid and optionally a Buy Now Price. Listings last 7 days with a 100 Belly listing fee.
 
-Bound items (quest items, misc items, skin shards, skin orbs, etc.) cannot be listed.
+Bound items (quest items, misc items, donation items, vanilla items etc.) cannot be listed.
 
 ## Orders (Browse Buy Orders)
 
@@ -30,7 +30,7 @@ Sell: Fulfill all or part of a buy order. You'll receive payment for the items y
 
 Create a buy order requesting items from other players. Select the item, set quantity and price per item, then confirm.
 
-The total cost (Quantity × Price Per Item) plus the 100 Belly listing fee is placed in escrow, ensuring you have the funds to back your request. Orders last 7 days.
+The total cost (Quantity × Price Per Item) plus the 100 Belly listing fee is placed in escrow, ensuring you have the funds to back your request. Orders last 7 for days. If fulfilled, you get the item in your messages and the seller gets the money from escrow. If not fulfilled, you get your money placed in escrow back.
 
 ## Messages
 
@@ -46,4 +46,4 @@ Every market action creates a message in your Messages tab. Nothing is delivered
 | Buy Order Payment| You sold to a buy order. Claim to receive payment. |
 | Buy Order Refund | Your buy order expired. Claim to recover remaining escrow. |
 
-Items go to your inventory first, then bank storage if inventory is full.
+Items go to your inventory first, then bank storage if inventory is full. If both are full then you cannot claim the item until space is made.

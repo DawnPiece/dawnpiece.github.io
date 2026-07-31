@@ -60,9 +60,9 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Gear Guide Overview', link: '/Gear/Overview' },
+          { text: 'Melee Weapons', link: '/Gear/MeleeWeapons' },
           { text: 'Armor', link: '/Gear/Armor' },
           { text: 'Set Bonus', link: '/Gear/SetBonus' },
-          { text: 'Melee Weapons', link: '/Gear/MeleeWeapons' },
         ],
       },
       {

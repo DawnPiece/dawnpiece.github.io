@@ -1,6 +1,6 @@
 # Set Bonuses
 
-Set Bonuses activate when wearing all 4 pieces of the same character's gear set. The bonus value displays in the item tooltip. When mixing tiers, the lowest tier's value applies. Some gear sets have no bonus yet. These are marked as "None" and reserved for future bonuses.
+Set Bonuses activate when wearing all 4 pieces of the same character's gear set. The bonus value displays in the item tooltip. When mixing tiers, the lowest tier's value applies. Some gear sets have no bonus yet. These are marked as "None" and reserved for future bonuses, however some of them such as the starter generic set will permanently retain no set bonus.
 
 ## Guard Sets
 

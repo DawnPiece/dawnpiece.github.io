@@ -10,12 +10,14 @@ Resource nodes are special blocks found throughout islands. There are two types:
 2. Wood Nodes: Chopped with an Axe
 3. Fishing Nodes: Placed in water and harvested with a Fishing Rod
 
-Each node has soft ambient particles floating around it, making them easy to spot. Once you harvest a node for the day, the particles disappear for you but other players who haven't harvested yet will still see them. The nodes all have a daily reset at UTC 00:00 so they can be harvested again.
+Each node has soft ambient particles floating around it or bubbles in the water for fishing nodes, making them easy to spot. Once you harvest a node for the day, the particles disappear for you but other players who haven't harvested yet will still see them. The nodes all have a daily reset at UTC 00:00 so they can be harvested again.
 
 ## How to Harvest
 
 1. Equip the correct tool: Pickaxe for Stone, Axe for Wood, Fishing Rod for fishing.
 2. Right-click the resource node to start the cinematic harvesting animation.
+
+You can find the tools by speaking to the Citizens in their houses along the road to Goa Kingdom. They will each give you their respective tool to start gathering the resources.
 
 ## Rewards
 
@@ -71,5 +73,5 @@ Every harvest also rolls for two bonus items independently: Tier Shards and Skin
 1. Plan your route: Visit islands with multiple resource nodes to maximize your daily haul.
 2. Level up efficiently: Early levels come quickly from the common drops. The higher your level, the more valuable your daily harvests become.
 3. Check all islands: Resource nodes are scattered across the world. Explore to find them all!
-4. Tools matter: Always carry a Pickaxe and Axe so you never miss a harvest.
+4. Tools matter: Always carry a Pickaxe, Axe and Fishing Rod so you never miss a harvest.
 5. Harvest in between: Sometimes nodes may appear at your location mid quest. Take a moment to stop and gather before continuing on your journey.
