@@ -32,3 +32,19 @@ Note: Completing this quest unlocks Shells Town. Speak to Alvida Pirate (AH) or 
 | NPC Name         | Purpose                            |
 |-------------     |-----------                         |
 | Teleporter       | Teleport to any unlocked location  |
+
+## Old Goa Merchants to delete
+
+| Merchant Name             | Merchandise |
+|------------------         |-------------|
+| Pizzaiolo                 | Food        |
+| Devil Fruit Key Seller    | Devil Fruit Crate Keys    |
+| Common Fragment Trader    | Devil Fruit Fragments     |
+| Uncommon Fragment Trader  | Devil Fruit Fragments     |
+| Rare Fragment Trader      | Devil Fruit Fragments     |
+| Epic Fragment Trader      | Devil Fruit Fragments     |
+| Legendary Fragment Trader | Devil Fruit Fragments     |
+| Mythical Fragment Trader  | Devil Fruit Fragments     |
+| Waiter                    | Food                      |
+| Butcher                   | Food                      |
+| Barista                   | Drinks                    |

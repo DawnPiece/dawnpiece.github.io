@@ -13,8 +13,7 @@ The island guide is a collection of pages describing the contents of each island
 
 [0. Spawn Island](SpawnIsland.md)<br>
 [1. Dawn Island](DawnIsland.md)<br>
-[1.1 Goa Kingdom](GoaKingdom.md)<br>
-[1.2 Sixis](Sixis.md)<br>
+[1.1 Sixis](Sixis.md)<br>
 [2. Alvida's Hideout](AlvidaHideout.md)<br>
 [3. Shells Town](ShellsTown.md)<br>
 [3.1 Shimotsuki Village](ShimotsukiVillage.md)<br>

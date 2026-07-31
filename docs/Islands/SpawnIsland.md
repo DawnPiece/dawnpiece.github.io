@@ -31,10 +31,5 @@ Note: This quest can only be completed once.
 | NPC Name              | Purpose                           |
 |-------------          |-----------                        |
 | Teleporter            | Teleport to any unlocked location |
-| Server Tutorial       | Basic Server Information          |
-| Gameplay Tutorial     | Basic Server Information          |
-| Markets Tutorial      | Basic Server Information          |
-| Abilities Tutorial    | Basic Server Information          |
-| Recruiter             | Life Path Selector                |
 | Monkey D. Luffy       | New Player Guide                  |
-| Haki Reset            | Haki Meter Reset NPC              |
+

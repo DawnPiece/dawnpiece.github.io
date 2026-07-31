@@ -1,8 +1,8 @@
 # Blacksmiths
 
-Blacksmiths are Essential NPCs found at various islands. To see which islands have one, check the Essential NPCs section in the [Island Guide](/Islands/Overview).
+Blacksmiths are locations found at various islands. To see which islands have a Blacksmith, check the POI section for each island in the [Island Guide](/Islands/Overview).
 
-Every Forge has 5 functions: Upgrade, Repair, Salvage, Roll, and Construct. The Mythical Forge found at the [Black Market](/Islands/BlackMarket) adds a 6th function for Runes.
+Blacksmiths have a Forge Block that is interactive. Every Forge has 5 functions: Upgrade, Repair, Salvage, Roll, and Construct. The Mythical Forge found at the [Black Market](/Islands/BlackMarket) adds a 6th function for Runes.
 
 ## Upgrading
 
@@ -41,14 +41,14 @@ Payout is based on Tier, Remaining Durability, and Damage Dealt/Received. Each d
 
 ## Rolling
 
-Insert an orb to roll for a random gear piece of the matching tier.
+Insert an orb to roll for a random gear piece of the matching tier. Skin Orbs will give you an Armorer's workshop skin to drip out your character.
 
-- Regular Forge: Common Orbs only
+- Regular Forge: Common Orbs and Skin Orbs only
 - Mythical Forge: Any orb tier for gear of that tier
 
 ## Constructing
 
-Combine shards into orbs of the same tier, or orbs into a higher tier orb.
+Combine shards into orbs of the same tier, or orbs into a higher tier orb. Skin Shards can only make Skin Orbs.
 
 | Orb       | Forge Shards | Forge Orbs | Mythical Forge Shards | Mythical Forge Orbs   |
 |-----------|--------------|------------|-----------------------|-----------------------|
@@ -58,6 +58,7 @@ Combine shards into orbs of the same tier, or orbs into a higher tier orb.
 | Epic      | 10 Epic      | 5 Rare     | 8 Epic                | 4 Rare                |
 | Legendary | 10 Legendary | 5 Epic     | 8 Legendary           | 4 Epic                |
 | Mythical  | 10 Mythical  | 5 Legendary| 8 Mythical            | 4 Legendary           |
+| Skin      | 10 Skin      | —          | 8 Skin                | —                     |
 
 ## Runes
 

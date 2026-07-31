@@ -58,7 +58,7 @@ Bounty Reward: 44,500,000
 | Linlin                | 5000 Belly | Legendary | Napoleon (Epic)                              | Linlin (Epic)     | Soru Fragment                  |
 | Shiki                 | 5000 Belly | Legendary |                                              | Shiki (Epic)      | Fuwa Fragment                  |
 | Don Marlon            | 4000 Belly | Legendary |                                              |                   |                                |
-| Xebec                 | 10000 Belly| Legendary | Saber Of Xebec (Legendary)                   | Xebec (Legendary) | Xebec Advanced Haki Fragment   |
+| Xebec                 | 10000 Belly| Legendary | Eclipse (Legendary)                          | Xebec (Legendary) | Xebec Advanced Haki Fragment   |
 
 ## C Quest
 

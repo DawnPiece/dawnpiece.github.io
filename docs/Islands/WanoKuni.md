@@ -67,7 +67,6 @@ Note: Completing this quest unlocks Onigashima. Speak to Denjiro (WK) or the Tel
 
 | Merchant Name         | Merchandise               |
 |-------------          |-----------                |
-| Tribute Seller        | Legacy Rank Tributes      |
 | Common Fragments      | Black Market Fragments    |
 | Uncommon Fragments    | Black Market Fragments    |
 | Rare Fragments        | Black Market Fragments    |

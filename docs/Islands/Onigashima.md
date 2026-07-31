@@ -100,7 +100,7 @@ Note: Completing this quest unlocks Egghead. Speak to Momonosuke (ONI) or the Te
 | All-Star Queen            | 1000 Belly |         |                                    |               |                               |
 | All-Star Queen Beast Form | 2250 Belly | Epic    | Dao Sword (Epic)                   | Queen (Epic)  | Brachiosaurus Fragment        |
 | All-Star King             | 1000 Belly |         |                                    |               |                               |
-| All-Star King Beast Form  | 2500 Belly | Epic    | King Sword (Epic)                  | King (Epic)   | Pteranodon Fragment           |
+| All-Star King Beast Form  | 2500 Belly | Epic    | Lunarian Sword (Epic)              | King (Epic)   | Pteranodon Fragment           |
 | O-Lin                     | 4000 Belly |Legendary| Napoleon (Epic)                    | Linlin (Epic) | Soru Fragment                 |
 | Kaido                     | 3000 Belly |         |                                    |               |                               |
 | Kaido Man-Beast Form      | 2000 Belly |Legendary| Hassaikai (Epic)                   | Kaido (Epic)  | Seiryu Fragment               |

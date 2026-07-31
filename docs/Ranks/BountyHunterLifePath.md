@@ -79,14 +79,14 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Sweet Commander Cracker	| 6000 Belly  | Pretzel (Legendary)       	| Cracker (Legendary) 	| Bisu Fragment 				|
 | Jack The Drought			| 10000 Belly | Shotel (Legendary)        	| Jack (Legendary)   	| Mammoth Fragment  			|
 | Queen The Plague			| 10000 Belly | Dao Sword (Legendary)     	| Queen (Legendary)  	| Brachiosaurus Fragment		|
-| King The Wildfire			| 10000 Belly | King Sword (Legendary)    	| King (Legendary)   	| Pteranodon Fragment			|
+| King The Wildfire			| 10000 Belly | Lunarian Sword (Legendary)  | King (Legendary)   	| Pteranodon Fragment			|
 | Lucky Roux The Cook		| 10000 Belly |           					|           			|           					|
 | Chaser Yasopp				| 10000 Belly |           					|           			|           					|
 | First Mate Benn Beckman	| 10000 Belly |           					|           			|           					|
 | Champion Jesus Burgess	| 10000 Belly | Green Dagger (Legendary)  	| Burgess (Legendary)   | Riki Fragment 				|
 | Shiryu Of The Rain		| 10000 Belly | Raiu (Legendary)          	| Shiryu (Legendary)	| Suke Fragment					|
 | The Supersonic			| 10000 Belly |           					| Van Augur (Legendary) | Wapu Fragment 				|
-| Rocks D. Xebec			| 10000 Belly | Saber Of Xebec (Legendary)  | Xebec (Legendary) 	| Xebec Advanced Haki Fragment  |
+| Rocks D. Xebec			| 10000 Belly | Eclipse (Legendary) 	    | Xebec (Legendary) 	| Xebec Advanced Haki Fragment  |
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 

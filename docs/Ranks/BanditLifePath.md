@@ -70,7 +70,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 | Boss Name 				| Belly     	| Weapon    								| Armor Set 			| Other     					|
 |-----------				|-----------	|-----------								|-----------			|-----------					|
-| Higuma The Bear			| 6000 Belly  	| Bandit Sword (Legendary)					| Bandit (Legendary)   	|           					|
+| Higuma The Bear			| 6000 Belly  	| Sanzoku Sword (Legendary)					| Higuma (Legendary)   	|           					|
 | Iron Mace Alvida			| 6000 Belly  	| Iron Mace (Legendary)   					| Alvida (Legendary)   	| Sube Fragment					|
 | Kuro Of 1000 Plans		| 6000 Belly  	| Tekko Kagi (Legendary)    				| Kuro (Legendary)		|           					|
 | Sawtooth Arlong			| 6000 Belly  	| Kiribachi (Legendary) 					| Arlong (Legendary) 	|           					|

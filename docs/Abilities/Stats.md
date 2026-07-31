@@ -40,3 +40,20 @@ Start at 20 and has a max of 100. Levels up by eating. You gain 1 hunger per 500
 | 5     | 50     | 5,000                  | 15,000     |
 | 6–9   | +10    | 5,000 each             | —          |
 | 10    | 100    | 5,000                  | 40,000     |
+
+## Gathering
+
+There are three skills related to gathering: Mining, Logging and Fishing. Each gathering skill levels up by gathering their specific resources, and leveling them gives you a better chnage to get better resources to sell at a higher price. For more information related to gathering, please see the [Resources](General/Resources) page. 
+
+| Level | Total XP | Per Level |
+|-------|----------|-----------|
+| 1     | 1,600    | 1,600     |
+| 2     | 12,800   | 11,200    |
+| 3     | 43,200   | 30,400    |
+| 4     | 102,400  | 59,200    |
+| 5     | 200,000  | 97,600    |
+| 6     | 345,600  | 145,600   |
+| 7     | 548,800  | 203,200   |
+| 8     | 819,200  | 270,400   |
+| 9     | 1,166,400| 347,200   |
+| 10    | 1,600,000| 433,600   |

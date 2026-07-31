@@ -44,7 +44,7 @@ Note: This is the final quest in the Main Story until we release further islands
 | S-Bear            | 1500 Belly | Epic     |                           | Kuma (Rare)       | Nikyu Fragment    |
 | S-Shark           | 1500 Belly | Epic     |                           | Jinbe (Rare)      | Sui Fragment      |
 | S-Snake           | 1500 Belly | Epic     |                           | Hancock (Rare)    | Mero Fragment     |
-| S-Hawk            | 2000 Belly | Epic     | S-Hawk Sword (Epic)       | Mihawk (Epic)     | Supa Fragment     |
+| S-Hawk            | 2000 Belly | Epic     | Hawk Blade (Epic)         | Mihawk (Epic)     | Supa Fragment     |
 | Rob Lucci (CP0)   | 2500 Belly | Epic     |                           | Cipher Pol (Epic) | Leopard Fragment  |
 | Kaku (CP0)        | 2300 Belly | Epic     | Shirasaya (Epic)          | Cipher Pol (Epic) | Giraffe Fragment  |
 | Stussy (CP0)      | 2000 Belly | Epic     |                           | Cipher Pol (Epic) | Batto Fragment    |

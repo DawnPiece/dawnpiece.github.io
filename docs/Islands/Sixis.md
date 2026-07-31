@@ -20,7 +20,7 @@ Bounty Reward: 200,000
 | Boss Name      | Belly     | Orb      | Weapon               | Armor Set      | Other     |
 |----------------|-----------|----------|----------------------|-----------     |-----------|
 | Previous Mr. 7 | 40 Belly  | Common   |                      |                |           |
-| Portgas D. Ace | 100 Belly | Uncommon | Ace Knife (Uncommon) | Ace (Uncommon) |           |
+| Portgas D. Ace | 100 Belly | Uncommon | Spade Dagger (Uncommon) | Ace (Uncommon) |           |
 | Masked Deuce   | 60 Belly  | Common   |                      |                |           |
 
 ## Essential NPCs

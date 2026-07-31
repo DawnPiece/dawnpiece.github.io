@@ -76,7 +76,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Sister   			| 6000 Belly  | Cross (Legendary)    		| Catherina (Legendary)			|           	|
 | Ms. Father’s Day  | 6000 Belly  |           					| Miss Fathers Day (Legendary)  |           	|
 | Mister Seven  	| 6000 Belly  |           					| Mr. Seven (Legendary)			|           	|
-| Mikita  			| 8000 Belly  | Umbrella (Legendary)    	| Mikita (Legendary)   			| Kilo Fragment |
+| Mikita  			| 8000 Belly  | Yellow Umbrella (Legendary) | Mikita (Legendary)   			| Kilo Fragment |
 | Gem      			| 8000 Belly  |           					| Gem (Legendary)      			| Bomu Fragment |
 | Drophy   			| 10000 Belly | Mole Claw (Legendary)   	| Drophy (Legendary)            | Mogu Fragment	|
 | Babe     			| 10000 Belly | Steel Bat (Legendary)   	| Babe (Legendary) 				|           	|

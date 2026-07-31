@@ -16,9 +16,3 @@ The following chart lists all of the DawnPiece Commands that you are able to use
 | /dp bounty check (player)| Checks another player’s bounty               | Default       |
 | /dp bounty list (page)   | Shows the leaderboard for all server bounties| Default       |
 | /dp bank                 | Opens your bank GUI                          | Tenryubito    |
-
-## Other Mods & Plugins
-
-1. [Duels Plugin Commands](https://github.com/Realizedd/Duels/wiki/Commands): Type **/duel** in game to learn about our in game PvP system.
-2. Factions X Plugin Commands: Type **/f help** in game to learn about building crews in game.
-3. [Playtime Rewards Plus Plugin](https://nullforums.net/resources/playtimerewards-the-1-playtime-rewards-plugin.9617/): Type **/playtime help** in game to get started on claiming rewards.

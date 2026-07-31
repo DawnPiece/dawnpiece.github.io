@@ -24,14 +24,59 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Tutorial',
+        collapsed: true,
+        items: [
+          { text: 'How To Join', link: '/Tutorial/HowToJoin' },
+          { text: 'How To Play', link: '/Tutorial/HowToPlay' },
+          { text: 'Commands', link: '/Tutorial/Commands' },
+        ],
+      },
+      {
         text: 'General Information',
         collapsed: true,
         items: [
-          { text: 'Tutorial', link: '/General/Tutorial' },
-          { text: 'Commands', link: '/General/Commands' },
+          { text: 'Discoveries', link: '/General/Discoveries' },
+          { text: 'Resources', link: '/General/Resources' },
           { text: 'Food', link: '/General/Food' },
           { text: 'Drinks', link: '/General/Drinks' },
-          { text: 'Treasure Hunts', link: '/General/TreasureHunts' },
+        ],
+      },
+      {
+        text: 'Abilities Guide',
+        collapsed: true,
+        items: [
+          { text: 'Abilities Guide Overview', link: '/Abilities/Overview' },
+          { text: 'Character Level', link: '/Abilities/Level' },
+          { text: 'General Stats', link: '/Abilities/Stats' },
+          { text: 'Races', link: '/Abilities/Race' },
+          { text: 'Fighting Styles', link: '/Abilities/Style' },
+          { text: 'Haki', link: '/Abilities/Haki' },
+          { text: 'Devil Fruits', link: '/Abilities/DevilFruit' },
+        ],
+      },
+      {
+        text: 'Gear Guide',
+        collapsed: true,
+        items: [
+          { text: 'Gear Guide Overview', link: '/Gear/Overview' },
+          { text: 'Armor', link: '/Gear/Armor' },
+          { text: 'Set Bonus', link: '/Gear/SetBonus' },
+          { text: 'Melee Weapons', link: '/Gear/MeleeWeapons' },
+        ],
+      },
+      {
+        text: 'POI Guide',
+        collapsed: true,
+        items: [
+          { text: 'POI Guide Overview', link: '/POI/Overview' },
+          { text: 'Teleporter', link: '/POI/Teleporter' },
+          { text: 'Blacksmiths', link: '/POI/Blacksmith' },
+          { text: 'Banks', link: '/POI/Bank' },
+          { text: 'Hospitals', link: '/POI/Hospital' },
+          { text: 'Restaurants', link: '/POI/Restaurant' },
+          { text: 'Market', link: '/POI/Market' },
+          { text: 'Jails', link: '/POI/Jail' },
         ],
       },
       {
@@ -97,30 +142,6 @@ export default defineConfig({
           { text: '38.1 God Valley', link: '/Islands/GodValley' },
           { text: 'D1. Morioh', link: '/Islands/Morioh' },
           { text: 'E1. Black Market', link: '/Islands/BlackMarket' },
-        ],
-      },
-      {
-        text: 'Abilities Guide',
-        collapsed: true,
-        items: [
-          { text: 'Abilities Guide Overview', link: '/Abilities/Overview' },
-          { text: 'Character Level', link: '/Abilities/Level' },
-          { text: 'General Stats', link: '/Abilities/Stats' },
-          { text: 'Races', link: '/Abilities/Race' },
-          { text: 'Fighting Styles', link: '/Abilities/Style' },
-          { text: 'Haki', link: '/Abilities/Haki' },
-          { text: 'Devil Fruits', link: '/Abilities/DevilFruit' },
-        ],
-      },
-      {
-        text: 'Gear Guide',
-        collapsed: true,
-        items: [
-          { text: 'Gear Guide Overview', link: '/Gear/Overview' },
-          { text: 'Blacksmiths', link: '/Gear/Blacksmith' },
-          { text: 'Armor', link: '/Gear/Armor' },
-          { text: 'Set Bonus', link: '/Gear/SetBonus' },
-          { text: 'Melee Weapons', link: '/Gear/MeleeWeapons' },
         ],
       },
       {

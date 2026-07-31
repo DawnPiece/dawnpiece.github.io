@@ -128,7 +128,7 @@ To start the D Quest, speak to White Chase Smoker (AB) in Katorea.
 
 | Boss Name | Belly     | Orb  | Weapon               | Armor Set       | Other        |
 |-----------|-----------|------|----------------------|-----------      |--------------|
-| Ace       | 400 Belly | Rare | Ace Knife (Uncommon) | Ace (Uncommon)  | Mera Fragment|
+| Ace       | 400 Belly | Rare | Spade Dagger (Uncommon) | Ace (Uncommon)  | Mera Fragment|
 
 Item Rewards: 400 Belly, Common Shard<br>
 Bounty Reward: 400,000
@@ -155,33 +155,3 @@ Bounty Reward: 400,000
 | Blackjack Dealer        | Gambling                                |
 
 Note: While they are not NPC's, there are scripted blocks at the Casino that you can interact with to win belly similar to the old gambling NPCs.
-
-## Treasure Hunt
-
-The Alabasta Treasure Hunt has a total of 21 NPC's Speak with the Nanohana Bartender being the starting point, they will direct you on who to talk to next. Only one NPC knows the true location of the Treasure and the others may lead you to an incorrect location. Some locations may have more than one treasure chest so be sure to look carefully. If you find the treasure let an Admin know so that they can rework the treasure hunt.
-
-Treasure: Desert Sun Amulet, Runic Stone and 100,000 Belly
-
-| NPC Name                  |
-|-------------              |
-| Nanohana Bartender        |
-| Nanohana Dockworker       |
-| Nanohana Shipwright       |
-| Nanohana Fisherman        |
-| Nanohana Merchant         |
-| Nanohana Bard             |
-| Alubarna Tavern Keeper    |
-| Alubarna Guard Captain    |
-| Alubarna Spice Seller     |
-| Alubarna Beggar           |
-| Alubarna Shopkeeper       |
-| Katorea Caravan Leader    |
-| Katorea Fortune Teller    |
-| Katorea Scholar           |
-| Katorea Priest            |
-| Katorea Trader            |
-| Rainbase Nomad            |
-| Rainbase Marine           |
-| Rainbase Gambler          |
-| Rainbase Rogue            |
-| Rainbase Drunkard         |
