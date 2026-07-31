@@ -43,7 +43,7 @@ Start at 20 and has a max of 100. Levels up by eating. You gain 1 hunger per 500
 
 ## Gathering
 
-There are three skills related to gathering: Mining, Logging and Fishing. Each gathering skill levels up by gathering their specific resources, and leveling them gives you a better chnage to get better resources to sell at a higher price. For more information related to gathering, please see the [Resources](General/Resources) page. 
+There are three skills related to gathering: Mining, Logging and Fishing. Each gathering skill levels up by gathering their specific resources, and leveling them gives you a better chnage to get better resources to sell at a higher price. For more information related to gathering, please see the [Resources](/General/Resources) page. 
 
 | Level | Total XP | Per Level |
 |-------|----------|-----------|

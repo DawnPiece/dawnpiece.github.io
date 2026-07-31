@@ -1,6 +1,6 @@
 # Food
 
-The DawnPiece Mod has a variety of food items from the One Piece World. The goal of food is to restore your hunger, stamina and health. Food can be bought at [Restaurants](Restaurant.md) throughout the world.
+The DawnPiece Mod has a variety of food items from the One Piece World. The goal of food is to restore your hunger, stamina and health. Food can be bought at [Restaurants](/POI/Restaurant) throughout the world.
 
 ## Food Tiers
 

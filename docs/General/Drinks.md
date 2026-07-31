@@ -1,6 +1,6 @@
 # Drinks
 
-This DawnPiece Mod has a variety of drink items from the One Piece World. The goal of drinks is to give you a buff for a limited period of time. Drinks can be bought at [Restaurants](Restaurant.md) throughout the world.
+This DawnPiece Mod has a variety of drink items from the One Piece World. The goal of drinks is to give you a buff for a limited period of time. Drinks can be bought at [Restaurants](/POI/Restaurant) throughout the world.
 
 ## Drink Items
 

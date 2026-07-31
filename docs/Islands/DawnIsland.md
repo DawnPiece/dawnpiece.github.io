@@ -105,14 +105,14 @@ Each island has various POI's that are considered important locations for essent
 
 | POI Type                      | NPC Name      |
 |-------------------------------|---------------|
-| [Teleporter](Teleporter.md)   | Teleporter    |
-| [Bank](Bank.md)               | Banker        |
-| [Blacksmith](Blacksmith.md)   | Blacksmith    |
-| [Hospital](Hospital.md)       | Doctor        |
-| [Market](Market.md)           | Market Broker |
-| [Restaurant](Restaurant.md)   | Baker         |
-| [Restaurant](Restaurant.md)   | Chef          |
-| [Jail](Jail.md)               | Policeman     |
+| [Teleporter](/POI/Teleporter) | Teleporter    |
+| [Bank](/POI/Bank)             | Banker        |
+| [Blacksmith](/POI/Blacksmith) | Blacksmith    |
+| [Hospital](/POI/Hospital)     | Doctor        |
+| [Market](/POI/Market)         | Market Broker |
+| [Restaurant](/POI/Restaurant) | Baker         |
+| [Restaurant](/POI/Restaurant) | Chef          |
+| [Jail](/POI/Jail)             | Policeman     |
 
 ## Discoveries
 

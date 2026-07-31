@@ -67,7 +67,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ## Blacksmith
 
-The Black Market has upgraded versions of every [Blacksmith](/Gear/Blacksmith) related block in the game. Please see below on what is different.<br>
+The Black Market has upgraded versions of every [Blacksmith](/POI/Blacksmith) related block in the game. Please see below on what is different.<br>
 
 1. Mythical Forge (Upgrade Table)
 
@@ -87,4 +87,4 @@ The Reclamation Forge works the exact same way as the Salvage Stand, however the
 
 5. Rune Forge
 
-This is a Black Market Exclusive Block that is used to add runes to your Mythical Armor Pieces. Please see the [Runes section on the Blacksmith page](/Gear/Blacksmith#runes) which explain the Rune Bonuses and the processes of applying runes.
+This is a Black Market Exclusive Block that is used to add runes to your Mythical Armor Pieces. Please see the [Runes section on the Blacksmith page](/POI/Blacksmith#runes) which explain the Rune Bonuses and the processes of applying runes.
