@@ -22,7 +22,7 @@ The island guide is a collection of pages describing the contents of each island
 [5.1 Mirror Ball Island](MirrorBallIsland.md)<br>
 [6. Island of Rare Animals](IslandOfRareAnimals.md)<br>
 [6.1 Don Krieg's Hideout](DonKriegHideout.md)<br>
-[6.2 Lost Island](LostIsland.md)<br>
+[6.2 Island Lost](IslandLost.md)<br>
 [7. Baratie](Baratie.md)<br>
 [8. Conomi Islands](ConomiIslands.md)<br>
 [8.1 Oykot Kingdom](OykotKingdom.md)<br>

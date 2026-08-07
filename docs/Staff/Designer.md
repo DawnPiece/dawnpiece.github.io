@@ -1,17 +1,25 @@
 # Designer Role
 
-As a designer, you will be responsible for creating minecraft skins and blockbench weapon and armor models for the server. Please see the information below for instructions and support.
+As a designer, you will be responsible for creating minecraft skins, armourers workshop armor skins and blockbench weapon models for the server. Please see the information below for instructions and support.
 
-## Custom Gear
+## Custom Weapons
 
-Custom gear are expected to be either Swords or Full Armor sets. Each character will drop one of each piece so design anything and everything that is missing from all boss NPCs that currently are using vanilla placeholder skins in the game. Some characters have different outfits in pre vs post timeskip as well as movies so make sure to keep multiple designs in mind when designing different characters skins as there are 6 tiers of weapons and armor for each character. Follow the steps below for help with submitting skins.
+Custom weapons are expected to be Sword Items, do not design armor. Each character will drop one of each piece so design anything and everything that is missing from all boss NPCs that currently are using vanilla placeholder swords in the game. Follow the steps below for help with submitting skins.
 
 1. Download Blockbench or use the web app [here](https://www.blockbench.net/).
-2. Check to see which bosses need skins to be made [here](https://docs.google.com/spreadsheets/d/1mN7EpQGuDJPwXUu9l0e26WoGWZnX0LN8CwZ1UdFXC1M/edit?gid=1642093025#gid=1642093025). There are weapons and armor sections on this spreadsheet so be sure to take a look at both tabs. If you decide to work on certain gear, mention you are working on it in the notes section so others know not to do the same one.
+2. Check to see which bosses weapon models to be made [here](https://docs.google.com/spreadsheets/d/1D-P7dBJgyU4zm5Ckjsdl0NgysjqqR8t1v5iipbzqJF4/edit?usp=sharing). If you decide to work on a certain weapon, mention you are working on it in the notes section so others know not to do the same one.
 3. Once the gear is finished, be sure to name it after the characters or weapons name listed in the spreadsheet in step two and then generate .png and .json files from blockbench.
-4. For weapons, drag and drop the .png and .json files into the [Work In Progress Folder](https://drive.google.com/drive/u/1/folders/19jGTmisUC8SpUEogExYR69XemCFa8ZIo). No need to drop .bbmodel files in here however you can if you would like to for safekeeping.
-5. For armor, drag and drop the .png, .geo.json, and animation.json files into the [Work In Progress Folder](https://drive.google.com/drive/u/1/folders/19jGTmisUC8SpUEogExYR69XemCFa8ZIo). There should also be 32x32 (or another perfect square dimensional size) pictures of each of the 4 pieces for the hotbar icons.
-6. Wait to hear back from the Admins for a quality check. If you see that your skin was deleted from the Work In Progress Folder, this means that it was loaded up and organized within our skin archive or that it was asked to be redone.
+4. Drag and drop the weapon.png and weapon.json files into the [Completed Models Folder](https://drive.google.com/drive/folders/19jGTmisUC8SpUEogExYR69XemCFa8ZIo?usp=sharing). No need to drop .bbmodel files in here however you can if you would like to for safekeeping.
+5. Wait to hear back from the Admins for a quality check. If you see that your skin was deleted from the Completed Models Folder, this means that it was loaded up to the mod or that it was asked to be redone.
+
+## Armourer's Workshop Skins
+
+Armourer's Workshop skins are expected to be Armor Items, do not design swords. These will be available to players who roll skins at the forge to drip out their character and are purely cosmetic. Some characters have different outfits in pre vs post timeskip as well as movies so make sure to keep multiple designs in mind when designing different characters skins. Follow the steps below for help with submitting skins.
+
+1. Before building any skins, tell Haneki the skin you would like to build. He will then confirm if we already have it or not, and give you the go ahead to build one.
+2. Load up single player creative mode and use the armourers workshop blocks to build a skin. Make sure to name the skin based on the character and type of skin. If it's a specific skin from a certain island please include that as well. For example, Luffy's Dressrosa Shirt.
+3. Once the skin is complete, drag it into the [Completed Skins Folder](https://drive.google.com/drive/folders/1NsOEb3Ajk1hWEDY3hmUpGsc8pyQ-zyw_?usp=sharing).
+4. Wait to hear back from the Admins for a quality check. If you see that your skin was deleted from the Completed Skins Folder, this means that it was loaded up to the server or that it was asked to be redone.
 
 ## Minecraft Skins
 

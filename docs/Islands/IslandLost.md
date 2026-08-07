@@ -1,4 +1,4 @@
-# Lost Island Guide
+# Island Lost Guide
 
 This island is accessible from the Side Island Menu in the Teleporter after completing the Island or Rare Animals.
 

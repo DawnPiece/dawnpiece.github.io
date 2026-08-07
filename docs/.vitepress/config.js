@@ -95,7 +95,7 @@ export default defineConfig({
           { text: '5.1 Mirror Ball Island', link: '/Islands/MirrorBallIsland' },
           { text: '6. Island of Rare Animals', link: '/Islands/IslandOfRareAnimals' },
           { text: '6.1 Don Krieg\'s Hideout', link: '/Islands/DonKriegHideout' },
-          { text: '6.2 Lost Island', link: '/Islands/LostIsland' },
+          { text: '6.2 Island Lost', link: '/Islands/IslandLost' },
           { text: '7. Baratie', link: '/Islands/Baratie' },
           { text: '8. Conomi Islands', link: '/Islands/ConomiIslands' },
           { text: '8.1 Oykot Kingdom', link: '/Islands/OykotKingdom' },

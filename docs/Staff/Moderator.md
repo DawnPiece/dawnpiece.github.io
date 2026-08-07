@@ -5,8 +5,8 @@ As a helper and moderator, you will be responsible for assisting new players in 
 ## Important Duties for Server Growth
 
 1. Advertising our Discord Server on other Discord Servers so that we can get players to join.
-2. Helping Design [Random NPC](https://docs.google.com/spreadsheets/d/1LDc19Taii6kIXeVlYipmFyDQgSyhrwayUWWB-GRt6iY/edit?usp=drive_link) Dialogs to make the map feel more alive and help new players with information. Please see how the NPC's are set up on Foosha Village for examples.
-3. Checking The [Discord FAQ Commands](https://discord.com/channels/1385526041807949855/1394162921441067119), the [Wiki](https://dawnpiece.github.io/) and NPCs in game for correct information, spelling mistakes, mising information, and other things along that nature. We want to make sure we give players the proper information and that it all stays updated.
+2. Helping Design [Random NPC](https://discord.com/channels/1472772686580158526/1515976453995499612) Dialogs to make the map feel more alive and give players information and items
+3. Checking The [Discord FAQ Commands](https://discord.com/channels/1472772686580158526/1527188936621953044), the [Wiki](https://dawnpiece.github.io/) and NPCs in game for correct information, spelling mistakes, mising information, and other things along that nature. We want to make sure we give players the proper information and that it all stays updated.
 
 ## Helper Permissions
 
