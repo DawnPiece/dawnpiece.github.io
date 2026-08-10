@@ -23,7 +23,7 @@ If you don't want to download the instance and delete the old one every time the
 2. On the CurseForge App, right click the modpack, select Open Folder, open the mods folder and swap out the older version of the mod with the new one.
 3. Once complete, click launch and the updated version should be good to go.
 
-## Modrinth App
+## Modrinth
 
 The Modrinth App is a place to store various instances of all kinds of modpacks for different versions of the servers you play so you can access them in one place.
 

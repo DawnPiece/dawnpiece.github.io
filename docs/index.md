@@ -13,7 +13,7 @@ features:
     details: Information related to basic tutorials to help get you started.
     link: /Tutorial/HowToJoin
   - title: ⚙️ General Systems
-    details: Information related to general systems in the game..
+    details: Information related to general systems in the game.
     link: /General/Overview
   - title: ⚡️ Abilities Guide
     details: Information related to all of the power systems related to your character like Haki, Devil Fruits, Styles, Races and General Stats.

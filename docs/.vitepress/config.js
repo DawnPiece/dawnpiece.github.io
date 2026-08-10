@@ -5,6 +5,10 @@ export default defineConfig({
   description: 'Official Wiki for the DawnPiece Mod and Minecraft Server',
   lang: 'en-US',
 
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/icon.png' }],
+  ],
+
   themeConfig: {
     siteTitle: 'DawnPiece Wiki',
 
