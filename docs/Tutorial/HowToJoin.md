@@ -2,6 +2,26 @@
 
 Please follow the steps below using your preferred application to join the server. 
 
+## Technic
+
+The Technic Launcher is a place to download all kinds of modpacks for different versions of the servers you play so you can access them in one place.
+
+### First Time Download Steps
+
+1. [Download and Install the Technic Launcher]().
+2. Open the Technic Launcher, search for the mod pack "DawnPiece" and install it.
+3. Click on Launcher Options and allocate around 4GB of RAM to the Technic Launcher. Feel free to adjust this to your desired values, but make sure to never allocated more than half of your computers total RAM.
+4. Launch the modpack and join in on the fun! The server is directly accessible from the home screen.
+
+### Update Steps
+
+Haneki will upload the updated version of the modpack with every mod update. Once complete all you have to do is click play. If there are any issues, you can follow the steps below to manually download the updated mod but you shouldnt need to.
+
+1. [Download the latest version of Dawnpiece](https://drive.google.com/drive/folders/1GaQh20ZMCRrjlHOGbCA8HcB-b5ShGBNT?usp=sharing). Sometimes there may be additonal updates to other mods so make sure those are updated as well if it's announced.
+2. For Windows, delete the old version of the mods in your %appdata%\technic\modpacks\dawnpiece\mods folder. For Mac, delete the old version of the updated mods in the /Library/Application Support/technic/modpacks/dawnpiece/mods folder.
+3. Add the updated mod version jar file to the folder.
+4. Once complete, click launch and the updated version should be good to go.
+
 ## CurseForge
 
 The CurseForge App is a place to store various instances of all kinds of modpacks for different versions of the servers you play so you can access them in one place.
@@ -82,6 +102,6 @@ The original launcher is a bit more difficult to set up but easy to update. If y
 ### Update Steps
 
 1. [Download the latest version of Dawnpiece](https://drive.google.com/drive/folders/1GaQh20ZMCRrjlHOGbCA8HcB-b5ShGBNT?usp=sharing). Sometimes there may be additonal updates to other mods so make sure those are updated as well if it's announced.
-2. For Windows, delete the old version of the updated mods in your %appdata%\.minecraft\mods folder. For Mac, delete the old version of the updated mods in the /Library/Application Support/minecraft/mods folder.
-3. Add the updated version jar file to the folder.
+2. For Windows, delete the old version of the updated mods in your %appdata%\.minecraft\mods folder. For Mac, delete the old version of the mods in the /Library/Application Support/minecraft/mods folder.
+3. Add the updated mod version jar file to the folder.
 4. Once complete, click launch and the updated version should be good to go.
