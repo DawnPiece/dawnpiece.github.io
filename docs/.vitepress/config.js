@@ -77,6 +77,7 @@ export default defineConfig({
           { text: 'Teleporter', link: '/POI/Teleporter' },
           { text: 'Blacksmiths', link: '/POI/Blacksmith' },
           { text: 'Banks', link: '/POI/Bank' },
+          { text: 'Mercenary Guild', link: '/POI/Guild' },
           { text: 'Hospitals', link: '/POI/Hospital' },
           { text: 'Restaurants', link: '/POI/Restaurant' },
           { text: 'Market', link: '/POI/Market' },
