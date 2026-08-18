@@ -8,7 +8,7 @@ The Technic Launcher is a place to download all kinds of modpacks for different 
 
 ### First Time Download Steps
 
-1. [Download and Install the Technic Launcher]().
+1. [Download and Install the Technic Launcher](https://www.technicpack.net/download).
 2. Open the Technic Launcher, search for the mod pack "DawnPiece" and install it.
 3. Click on Launcher Options and allocate around 4GB of RAM to the Technic Launcher. Feel free to adjust this to your desired values, but make sure to never allocated more than half of your computers total RAM.
 4. Launch the modpack and join in on the fun! The server is directly accessible from the home screen.
