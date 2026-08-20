@@ -41,7 +41,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Discoveries', link: '/General/Discoveries' },
-          { text: 'Resources', link: '/General/Resources' },
+          { text: 'Harvesting', link: '/General/Harvesting' },
           { text: 'Food', link: '/General/Food' },
           { text: 'Drinks', link: '/General/Drinks' },
         ],
@@ -76,6 +76,8 @@ export default defineConfig({
           { text: 'POI Guide Overview', link: '/POI/Overview' },
           { text: 'Teleporter', link: '/POI/Teleporter' },
           { text: 'Blacksmiths', link: '/POI/Blacksmith' },
+          { text: 'Bounty Office', link: '/POI/BountyOffice' },
+          { text: 'Resource Merchant', link: '/POI/Resources' },
           { text: 'Banks', link: '/POI/Bank' },
           { text: 'Mercenary Guild', link: '/POI/Guild' },
           { text: 'Hospitals', link: '/POI/Hospital' },
