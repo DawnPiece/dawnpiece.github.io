@@ -1,6 +1,6 @@
 # General Stats
 
-Three stats govern your character: Health, Stamina, and Hunger. There are also three gathering stats related to the [Resources System](/General/Resources): Mining, Logging and Fishing. Each levels up independently through different actions.
+Three stats govern your character: Health, Stamina, and Hunger. There are also three gathering stats related to the [Harvesting System](/General/Harvesting): Mining, Logging and Fishing. Each levels up independently through different actions.
 
 ## Health
 
@@ -43,7 +43,7 @@ Start at 20 and has a max of 100. Levels up by eating. You gain 1 hunger per 500
 
 ## Gathering
 
-There are three skills related to gathering: Mining, Logging and Fishing. Each gathering skill levels up by gathering their specific resources, and leveling them gives you a better chance to get better resources to sell at a higher price. For more information related to gathering, please see the [Resources](/General/Resources) page. 
+There are three skills related to gathering: Mining, Logging and Fishing. Each gathering skill levels up by gathering their specific resources, and leveling them gives you a better chance to get better resources to sell at a higher price. For more information related to gathering, please see the [Harvesting](/General/Harvesting) page. 
 
 | Level | Total XP | Per Level |
 |-------|----------|-----------|

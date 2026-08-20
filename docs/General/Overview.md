@@ -5,6 +5,6 @@ The DawnPiece Server has many different systems involved in the game. These syst
 Use the links below to explore each section:
 
 - 🪎 [Discoveries](Discoveries.md) - Information related to the discoveries system.
-- ⛏️ [Resources](Resources.md) - Information related to the resource and gathering systems.
+- ⛏️ [Harvesting](Harvesting.md) - Information related to the resource and harvesting systems.
 - 🍝 [Food](Food.md) - Information related to the food you can buy.
 - 🧃 [Drinks](Drinks.md) - Information related to the drinks you can buy.

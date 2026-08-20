@@ -7,7 +7,9 @@ Use the links below to explore each section:
 - 🗺️ [Teleporter](Teleporter.md) - Information related to the fast travel system.
 - 🏦 [Banks](Bank.md) - Information related to currency exchange, item storage and bank accounts.
 - ⚒️ [Blacksmiths](Blacksmith.md) - Information related to upgrading, repairing, salvaging, rolling, constructing, and runes.
-- 🏴 [Mercenary Guild](Guild.md) - Information related to crews.
+- 📜 [Bounty Office](BountyOffice.md) - Information related to turning in boss heads for Belly rewards.
+- 🗝️ [Resource Merchant](Resources.md) - Information related to selling Stone, Wood and Fish resources and purchasing Treasure Keys.
+- 🏴‍☠️ [Mercenary Guild](Guild.md) - Information related to crews.
 - 💰 [Markets](Market.md) - Information related to the player item exchange market for the server.
 - 🏥 [Hospitals](Hospital.md) - Information related to doctors, hospitals and clinics.
 - 🍝 [Restaurants](Restaurant.md) - Information related to food and drink shops.
