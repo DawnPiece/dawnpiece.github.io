@@ -17,8 +17,8 @@ Skill points can be assigned in the Main Menu. Each ability maxes out at Level 5
 | # | Style                                   | Weapon Type |
 |---|-----------------------------------------|-------------|
 | 1 | [Swordsman](/Abilities/Style/Swordsman) | Slash       |
-| 2 | Bruiser                                 | Bludgeon    |
-| 3 | Brawler                                 | Impact      |
+| 2 | [Bruiser](/Abilities/Style/Bruiser)     | Bludgeon    |
+| 3 | [Brawler](/Abilities/Style/Brawler)     | Impact      |
 | 4 | Scout                                   | Pierce      |
 | 5 | Binder                                  | Pull        |
 | 6 | Glider                                  | Float       |
